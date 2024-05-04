@@ -1,0 +1,35 @@
+.decoration {
+  text-size: 20px;
+  text-align: center;
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.google-fonts {
+  /* Google Fonts */
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* MYPROFILEの装飾 */
+h1 {
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+/* ピンク */
+.color-pink {
+  color: rgb(255, 192, 203)
+}
+
+/* スカイブルー */
+.color-skyblue {
+  color: skyblue
+}
+
+/* idで指定するときは#を使う */
+#bold {
+  font-weight: bold;
+}
