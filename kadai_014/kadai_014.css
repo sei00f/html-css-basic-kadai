@@ -1,5 +1,8 @@
+html {
+  font-size: 20px;
+}
+
 .decoration {
-  text-size: 20px;
   text-align: center;
   font-family: "Arial", "Meiryo", sans-serif;
 }
@@ -14,6 +17,7 @@
 
 /* MYPROFILEの装飾 */
 h1 {
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
